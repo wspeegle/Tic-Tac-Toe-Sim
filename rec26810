@@ -1,0 +1,15 @@
+p1:
+total 44
+-rw-r--r--. 1 ugrad 3362 Jul 14 23:54 BoardState.cpp
+-rw-r--r--. 1 ugrad  739 Jul 14 23:57 BoardState.h
+-rw-r--r--. 1 ugrad   82 Jul 14 22:25 err.log
+-rw-r--r--. 1 ugrad  571 Jul 15 00:02 makefile
+-rw-r--r--. 1 ugrad 1779 Jul 14 23:50 README.txt
+-rw-r--r--. 1 ugrad    0 Jul 15 00:03 rec26810
+-rw-r--r--. 1 ugrad   49 Jul 14 23:47 t3board.txt
+-rw-r--r--. 1 ugrad 1336 Jul 14 23:55 t3solver.cpp
+-rw-r--r--. 1 ugrad 3071 Jul 14 23:55 TreeMaker.cpp
+-rw-r--r--. 1 ugrad  566 Jul 14 23:56 TreeMaker.h
+-rw-r--r--. 1 ugrad  712 Jul 14 23:56 TreeNode.cpp
+-rw-r--r--. 1 ugrad  544 Jul 14 23:57 TreeNode.h
+/home/ugrads/speegle/CS2670/Projects/p1:/home/work/cs2720a

@@ -1,0 +1,1 @@
+g++ -std=c++11 -o t3solver t3solver.cpp BoardState.cpp TreeNode.cpp TreeMaker.cpp
